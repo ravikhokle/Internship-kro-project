@@ -8,5 +8,4 @@ export default {
   },
 
   plugins: [],
-  base: "/Internship-kro-project",
 }
